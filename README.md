@@ -18,4 +18,4 @@ It is the early-stage prototype for future ZK component usage.
 
 ## Demo site
 
-https://zkoss-demo.github.io/zk-react-demo/
+https://zkoss-demo.github.io/zk-react-demo/ test
