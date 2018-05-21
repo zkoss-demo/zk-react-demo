@@ -1,10 +1,8 @@
-# ZK UIs in React
+# ZK UI in React
 
-A demostration of how to use ZK UIs in React, without the server.
+The demostration is a less previewer, showing how to use ZK UI in React, without the server. 
 
-It shows the possibility of future ZK components usage.
-
-And it is useful if you are learning [LESS CSS](http://lesscss.org/)!
+It is the early-stage prototype for future ZK component usage.
 
 ## Used ZK Components
 
